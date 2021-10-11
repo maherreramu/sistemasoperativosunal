@@ -1,1 +1,25 @@
- 
+ Sistemas operativos
+
+Un sistema operativo se puede definir como el conjunto de programas que administra los recursos del hardware, controla la ejecución de los software de aplicación
+(paquete de office, adobe reader, navegadores, etc) y funciona como interfaz entre el hardware y el usuario.
+
+Entre los principales sistemas operativos para computadoras estan:
+	- Windows
+	- MacOs
+	- Linux
+También se encuentran los sistemas operativos para dispositivos moviles, como:
+	- Android
+	- iOs
+	- Windows Phone
+	- BlackBerry
+
+Las principalesz caracteristicas de un sistema operativos son:
+	- La habilidad para evolucionar.
+	- Administrar hardware, Asignar y administrar los recursos de hardware a los diferentes procesos.
+	- Comunicación de dispoitivos periféricos.
+	- Organización y seguridad de datos
+	- Administración de redes
+	
+Los sistemas operativos se pueden clasificar como
+	-Multi tarea o mono tarea
+	-Mono usuario o multi usuario
