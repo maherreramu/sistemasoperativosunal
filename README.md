@@ -1,6 +1,6 @@
 # Sistemas Operativos G2
 
-* Mateo Herrera Muñoz
+Mateo Herrera Muñoz
 
 maherreramu@unal.edu.co
 
