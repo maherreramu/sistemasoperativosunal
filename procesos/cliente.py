@@ -1,8 +1,8 @@
 import socket
 import asyncio as asy
 
-HOST = '127.0.0.1'  # The server's hostname or IP address
-PORT = 65432        # The port used by the server
+HOST = '127.0.0.1' 
+PORT = 65432        
 
 acciones = '''
 0: Convertir primer caracter en mayuscula
