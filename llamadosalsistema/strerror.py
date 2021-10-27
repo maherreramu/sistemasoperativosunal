@@ -5,4 +5,4 @@ import os
 
 codigo = int(input("Ingrese codigo de error: "))
 msjerror = os.strerror(codigo)
-print(msjerror)
+print(msjerror) 

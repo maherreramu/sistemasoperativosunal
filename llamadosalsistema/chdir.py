@@ -12,4 +12,4 @@ try:
     actdir = os.getcwd()
     print("directorio de trabajo actualizado a: ", actdir)
 except Exception as e:
-    print("Error: ", os.strerror(e.errno))
+    print("Error: ", os.strerror(e.errno)) 

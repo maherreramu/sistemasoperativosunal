@@ -4,4 +4,4 @@ import os
 #directorio de trabajo actual
 
 path = os.getcwd()
-print(path)
+print(path) 
