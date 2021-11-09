@@ -1,0 +1,23 @@
+{
+    "ticker": {
+        "last_price": [
+            "0.07152717",
+            "BTC"
+        ],
+        "market_id": "ETH-BTC",
+        "max_bid": [
+            "0.07260402",
+            "BTC"
+        ],
+        "min_ask": [
+            "0.07345",
+            "BTC"
+        ],
+        "price_variation_24h": "-0.014",
+        "price_variation_7d": "0.019",
+        "volume": [
+            "1.41011136",
+            "ETH"
+        ]
+    }
+}

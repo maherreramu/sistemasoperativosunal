@@ -1,0 +1,6 @@
+{
+    "punto1.py": "6487b5ba3f5bf3316cb02a0db80c50c4e5f5fb5c27c90ed444e72e071add012e",
+    "punto2.py": "5e6d283b2a9680700df22de257b4150d4b825f37dee9b2bbfbef9b5f57abb90a",
+    "punto3.py": "43de7203e37cff53bebac359df874571394c9c3841c9d821337c2d3c7a12b7fb",
+    "server.py": "db24fdd54584c84114612dfbfb81943a71a62f03067a3c8077b319d8c2fadaba"
+}

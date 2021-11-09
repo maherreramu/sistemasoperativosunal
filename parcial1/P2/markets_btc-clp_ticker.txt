@@ -1,0 +1,23 @@
+{
+    "ticker": {
+        "last_price": [
+            "50965560.0",
+            "CLP"
+        ],
+        "market_id": "BTC-CLP",
+        "max_bid": [
+            "50707231.0",
+            "CLP"
+        ],
+        "min_ask": [
+            "50965236.0",
+            "CLP"
+        ],
+        "price_variation_24h": "0.01",
+        "price_variation_7d": "0.014",
+        "volume": [
+            "13.0708984",
+            "BTC"
+        ]
+    }
+}

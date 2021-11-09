@@ -1,0 +1,6 @@
+            Función                                                                                                                           Descripción
+0          os.chdir                       El metodo os.chdir(path) solicita como argumento un str con la ruta a la cual se cambiará el espacio de tranajo
+1        os.environ                                                El metodo os.environ mapea las varibles del entorno retornando un diccionario de estas
+2       os.fsencode  El metodo os.fsencode(filename) codifica el nombre del archivo retornando bytes. El proceso inverso lo realiza os.fsdecode(filename)
+3  os.get_exec_path                           El metodo os.get_exec_path() retorn una lista de directorios donde se puede buscar un ejecutable por nombre
+4         os.getcwd                                                   El metodo os.getcwd() retorna un string con la ruta al directorio de trabajo actual

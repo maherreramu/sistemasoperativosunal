@@ -1,0 +1,23 @@
+{
+    "ticker": {
+        "last_price": [
+            "237013148.0",
+            "COP"
+        ],
+        "market_id": "BTC-COP",
+        "max_bid": [
+            "235464719.5",
+            "COP"
+        ],
+        "min_ask": [
+            "237002881.99",
+            "COP"
+        ],
+        "price_variation_24h": "0.009",
+        "price_variation_7d": "0.024",
+        "volume": [
+            "1.28025492",
+            "BTC"
+        ]
+    }
+}
