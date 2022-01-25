@@ -1,21 +1,21 @@
-##To pull images for frontend and backend project type the next commands
+## To pull images for frontend and backend project type the next commands
 
-###backend:
+### backend:
 
 docker pull maherreramu/node_streaming_backend:v1.0
 
-###frontend:
+### frontend:
 
 docker pull maherreramu/node_streaming_frontend:v1.0
 
 
-##To run the containers from the images type the next commands
+## To run the containers from the images type the next commands
 
-###backend:
+### backend:
 
 docker run -d -v streaming_backend:/usr/src/app -p 5000:5000 maherreramu/node_streaming_backend:v1.0
 
-###frontend:
+### frontend:
 
 docker run -d -p 3000:3000 maherreramu/node_streaming_frontend:v1.0
 
