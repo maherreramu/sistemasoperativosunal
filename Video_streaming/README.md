@@ -13,11 +13,11 @@ docker pull maherreramu/node_streaming_frontend:v1.0
 
 ### backend:
 
-docker run -d --name streaming_backend -v streaming_backend:/usr/src/app -p 5000:5000 maherreramu/node_streaming_backend:v1.0
+docker run -d -v streaming_backend:/usr/src/app -p 5000:5000 maherreramu/node_streaming_backend:v1.0
 
 ### frontend:
 
-docker run -d --name streaming_frontend -p 3000:3000 maherreramu/node_streaming_frontend:v1.0
+docker run -d -p 3000:3000 maherreramu/node_streaming_frontend:v1.0
 
 
-To add the video library read the txt at backend/assets folder
+To add the video library read the txt at assets folder
