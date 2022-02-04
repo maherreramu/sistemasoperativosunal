@@ -1,0 +1,16 @@
+Como autoevaluación me coloco una nota de 4.5
+
+Está nota está basada en el esfuerzo y dedicación que he tenido hacia la materia, pero sobre todo
+al aprendizaje autónomo que he tenido.
+
+Empezando con la extensa y muy interesante investigación sobre devsecops. En la que me centré con
+mi compañero en los temas de Docker, kubernetes y Jenkins. Este fue un tema en el que dediqué
+bastante tiempo de aprendizaje y dos clases de exposición. También considero que realicé un esfuerzo
+para realizar trabajos de calidad (con posibilidad de mejorar, pero que hacen parte del proceso de
+aprendizaje), entregando lo solicitado e indagando en los temas respectivos para empaparme y aprender
+lo más posible de los temas.
+
+Adicionalmente creo que participé de la clase y asistí a ella regularmente.
+Por último, considero que mi mayor deficiencia respeto a la materia, fue no haber terminado el trabajo
+de hadoop. En el cuál dediqué bastante tiempo para su instalación y lectura de su funcionamiento, pero
+por inconvenientes personales no finalicé dicha actividad.
