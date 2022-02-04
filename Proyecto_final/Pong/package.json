@@ -12,7 +12,7 @@
     "node",
     "socket"
   ],
-  "author": "Andrey Arguedas",
+  "author": "Sergio Prieto - Mateo Herrera",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.1",
